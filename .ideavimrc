@@ -1,4 +1,7 @@
 " set
+set visualbell
+set noerrorbells
+
 set incsearch
 set relativenumber number
 set multicursor
